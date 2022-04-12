@@ -8239,15 +8239,15 @@ h5 {
 
 .mgt-promo-block-77976404.mgt-promo-block.darken .mgt-promo-block-content {
     /* background-color: rgba(0, 0, 0, 0.66) !important; */
-   background: repeating-linear-gradient(45deg, black, transparent 3px);
+    background: linear-gradient(180deg, black, transparent);
 }
 .mgt-promo-block-85748056.mgt-promo-block.darken .mgt-promo-block-content {
     /* background-color: rgba(0, 0, 0, 0.59) !important; */
-    background: repeating-linear-gradient(45deg, black, transparent 3px);
+    background: linear-gradient(180deg, black, transparent);
 }
 .mgt-promo-block-12111848.mgt-promo-block.darken .mgt-promo-block-content {
     /* background-color: rgba(0, 0, 0, 0.67) !important; */
-    background: repeating-linear-gradient(45deg, black, transparent 3px);
+    background: linear-gradient(180deg, black, transparent);
 }
 .mgt-flipbox-68346018.mgt-flipbox .mgt-flipbox-front-inner {
     background-color: rgba(0, 0, 0, 0.01) !important;
